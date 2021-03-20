@@ -1,0 +1,14 @@
+.ShowReadMeContainer{
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  z-index: 4000000;
+  transition: all .2s;
+
+  .DocContainer{
+    width: 100%;
+    height: 100%;
+  }
+}

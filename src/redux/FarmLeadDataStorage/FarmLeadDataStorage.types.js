@@ -1,0 +1,5 @@
+export const FarmLeadActionTypes = {
+  TOGGLE_READ_ME: "TOGGLE_READ_ME",
+  TOGGLE_TOUR_OPEN: "TOGGLE_TOUR_OPEN",
+  SET_THEME: "SET_THEME",
+}
